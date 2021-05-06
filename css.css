@@ -41,20 +41,21 @@ ul li{
 }
 .mediana{
     width: 400px;
-    height: 50px;
+    height: 60px;
     margin: auto;
-    font-size: 30px;
+    font-size: 45px;
     text-align: center;
 }
 .grande{
     width: 600px;
     height: 40px;
     margin: auto;
+    font-size: 30px;
     margin-top: 15px;
 }
 .cajaa{
     width: 100%;
-    height: 500px;
+    height: 450px;
     box-sizing: border-box;
     background-image: url(imagenes-google/Computadora.png);
     background-size: cover;
